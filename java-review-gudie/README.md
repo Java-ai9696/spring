@@ -13,7 +13,7 @@ Java架构交流QQ群：**863621962**  （备注一下GitHub，免得被认成�
 
 #### 或者添加小助理微信即可获取
 
-![c0598e520d9440c57c397fceee7f60c](C:\Users\Administrator\Desktop\c0598e520d9440c57c397fceee7f60c.jpg)
+![image](https://user-images.githubusercontent.com/85690089/122574848-aeaf9300-d082-11eb-85d7-e6516c0add77.png)
 
 # Java-review-Gudie
 
@@ -67,11 +67,11 @@ Java架构交流QQ群：**863621962**  （备注一下GitHub，免得被认成�
 
 快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=k8va5GM3)
 
-![微信截图_20210618204539](C:\Users\Administrator\Desktop\微信截图_20210618204539.png)
+![image](https://user-images.githubusercontent.com/85690089/122574995-d868ba00-d082-11eb-8e55-bc7e4e3901cc.png)
 
 >PS：
 >
 >>平常很忙，找小姐姐领取就好了，免费获取的！
 
-![c0598e520d9440c57c397fceee7f60c](C:\Users\Administrator\Desktop\c0598e520d9440c57c397fceee7f60c.jpg)
+![image](https://user-images.githubusercontent.com/85690089/122574966-cedf5200-d082-11eb-8380-511823677289.png)
 
