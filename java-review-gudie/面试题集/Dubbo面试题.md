@@ -14,14 +14,14 @@ Java架构交流QQ群：**863621962**  （备注一下GitHub，免得被认成�
 
 快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=k8va5GM3)
 
-![微信截图_20210618204539](C:\Users\Administrator\Desktop\微信截图_20210618204539.png)
+![image](https://user-images.githubusercontent.com/85690089/122705249-eb98a700-d287-11eb-995a-0d036bdd0d33.png)
 
 
 >PS：
 >
 >>平常很忙，找小姐姐领取就好了，免费获取的！
 
-![c0598e520d9440c57c397fceee7f60c](C:\Users\Administrator\Desktop\c0598e520d9440c57c397fceee7f60c.jpg)
+![image](https://user-images.githubusercontent.com/85690089/122705258-f2271e80-d287-11eb-9bbe-52e525c8c950.png)
 
 ## 1、为什么要用Dubbo？
 
