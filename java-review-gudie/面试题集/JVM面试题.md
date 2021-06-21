@@ -12,16 +12,16 @@
 
 Java架构交流QQ群：**863621962**  （备注一下GitHub，免得被认成打无良广告的）
 
-快捷加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=k8va5GM3)
+快捷QQ加群方式：[点击此处加入群聊Java架构交流群](https://jq.qq.com/?_wv=1027&k=k8va5GM3)
 
-![微信截图_20210618204539](C:\Users\Administrator\Desktop\微信截图_20210618204539.png)
+![image](https://user-images.githubusercontent.com/85690089/122705383-31556f80-d288-11eb-878a-14e807d51a4f.png)
 
 
 >PS：
 >
 >>平常很忙，找小姐姐领取就好了，免费获取的！
 
-![c0598e520d9440c57c397fceee7f60c](C:\Users\Administrator\Desktop\c0598e520d9440c57c397fceee7f60c.jpg)
+![image](https://user-images.githubusercontent.com/85690089/122705409-3d413180-d288-11eb-8c75-a068bbf038e1.png)
 
 ## Java内存区域
 
